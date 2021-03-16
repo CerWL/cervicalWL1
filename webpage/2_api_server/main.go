@@ -15,7 +15,7 @@ import (
 
 	"github.com/fvbock/endless"
 
-	_ "github.com/paulxiong/cervical/webpage/2_api_server/docs"
+	 "github.com/paulxiong/cervical/webpage/2_api_server/docs"
 )
 
 // @title API说明

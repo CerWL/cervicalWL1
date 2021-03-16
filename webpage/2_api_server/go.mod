@@ -24,7 +24,7 @@ require (
 	github.com/pierrre/imageutil v1.0.0
 	github.com/pkg/errors v0.8.1
 	github.com/qiniu/api.v7 v7.2.5+incompatible
-	github.com/qiniu/x v7.0.8+incompatible // indirect
+	github.com/qiniu/x v1.7.0 // indirect
 	github.com/satori/go.uuid v1.2.0
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337 // indirect
 	github.com/swaggo/gin-swagger v1.2.0
@@ -40,7 +40,7 @@ require (
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
-	qiniupkg.com/x v7.0.8+incompatible // indirect
+	qiniupkg.com/x v1.7.0+incompatible // indirect
 )
 
 go 1.13
